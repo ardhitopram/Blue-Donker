@@ -3,12 +3,12 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
@@ -28,9 +28,9 @@
    "More": [
     {
       "id": 1,
-      "title": "Super Yandere Game Simulation",
-      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+      "title": "Get Daily Diamonds FFF Tips",
+      "image": "https://play-lh.googleusercontent.com/N8O_k-UzZWD-GxMA16bP3kEJhRHZom0XaRUDxg99TmsUPz1aqdvad6ywLSszjzsvjQ=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=diamondapps.freeguidediamondtwo.fffdiamondsaguide.tipsdiamondsaapp"
     }
   ],
   "Categories": [
@@ -44,58 +44,58 @@
     
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide FFF",
+      "title": "Mod Diamond & Skin FFF Guide Part I",
+      "image": "https://beritabooyah.id/wp-content/uploads/2021/09/Photo_1631347710262_compress8.jpg",
+      "description": "Description",
+      "link": "https://ia601601.us.archive.org/11/items/mod-diamond-skin-fff-guide-html-2/Konten%20Mod%20Diamond%20%26%20Skin%20FFF%20Guide/mod%20diamond%20%26%20skin%20FFF%20Guide%20%20html1.html"
    },
 {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide FFF",
+      "title": "Mod Diamond & Skin FFF Guide Part I",
+      "image": "https://beritabooyah.id/wp-content/uploads/2021/09/Photo_1631347710262_compress8.jpg",
+      "description": "Description",
+      "link": "https://ia601601.us.archive.org/11/items/mod-diamond-skin-fff-guide-html-2/Konten%20Mod%20Diamond%20%26%20Skin%20FFF%20Guide/mod%20diamond%20%26%20skin%20FFF%20Guide%20%20html1.html"
     },{
    
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide FFF",
+      "title": "Mod Diamond & Skin FFF Guide Part II",
+      "image": "https://rsddrsoebandi.id/wp-content/uploads/2021/12/Tool-Skin-FF-e1639319808389.jpeg",
+      "description": "Description",
+      "link": "https://ia601601.us.archive.org/11/items/mod-diamond-skin-fff-guide-html-2/Konten%20Mod%20Diamond%20%26%20Skin%20FFF%20Guide/mod%20diamond%20%26%20skin%20FFF%20Guide%20%20html2.html"
     },
 {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide FFF",
+      "title": "Mod Diamond & Skin FFF Guide Part III",
+      "image": "https://metroandalas.co.id/wp-content/uploads/2021/12/Tool_Skin_FF_4.jpg",
+      "description": "Description",
+      "link": "https://ia601601.us.archive.org/11/items/mod-diamond-skin-fff-guide-html-2/Konten%20Mod%20Diamond%20%26%20Skin%20FFF%20Guide/mod%20diamond%20%26%20skin%20FFF%20Guide%20%20html3.html"
     },{
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide FFF",
+      "title": "Mod Diamond & Skin FFF Guide Part IV",
+      "image": "https://media-assets-ggwp.s3.ap-southeast-1.amazonaws.com/2021/07/mythos-fist-free-fire-1.jpg",
+      "description": "Description",
+      "link": "https://ia601601.us.archive.org/11/items/mod-diamond-skin-fff-guide-html-2/Konten%20Mod%20Diamond%20%26%20Skin%20FFF%20Guide/mod%20diamond%20%26%20skin%20FFF%20Guide%20%20html4.html"
       },
 {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide FFF",
+      "title": "Mod Diamond & Skin FFF Guide Part V",
+      "image": "https://i.ytimg.com/vi/n4h4zjeqUtg/maxresdefault.jpg",
+      "description": "Description",
+      "link": "https://ia601601.us.archive.org/11/items/mod-diamond-skin-fff-guide-html-2/Konten%20Mod%20Diamond%20%26%20Skin%20FFF%20Guide/mod%20diamond%20%26%20skin%20FFF%20Guide%20%20html5.html"
     },{
    
       "id": 6,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide FFF",
+      "title": "Mod Diamond & Skin FFF Guide Part VI",
+      "image": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2021/10/Cobra-Fist-Free-Fire-1024x594.jpeg",
+      "description": "Description",
+      "link": "https://ia601601.us.archive.org/11/items/mod-diamond-skin-fff-guide-html-2/Konten%20Mod%20Diamond%20%26%20Skin%20FFF%20Guide/mod%20diamond%20%26%20skin%20FFF%20Guide%20%20html6.html"
     
     }
   ]

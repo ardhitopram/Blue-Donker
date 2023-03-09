@@ -28,15 +28,15 @@
    "More": [
     {
       "id": 1,
-      "title": "Super Yandere Game Simulation",
-      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+      "title": "Get Daily Diamonds & FFF Guide",
+      "image": "https://play-lh.googleusercontent.com/nUUPpZN_PkHWG3YR5c0IDlcY4yZuUG1QPADv6OLyU5j5u0bhI-_GYvFhsH_hJZQrM2Q=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=diamond.freeguidediamondone.fffdiamondsa.tipsdiamondsa"
     }
   ],
   "Categories": [
     {
       "id": 1,
-      "name_category": "Tutorial",
+      "name_category": "Guide",
       "image": "file:///android_asset/image/gambar1.jpg"
     } 
   ],
@@ -44,58 +44,58 @@
     
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Daily Diamond FFF",
+      "title": "Guide SKS",
+      "image": "https://raazkumar.com/wp-content/uploads/2020/04/Free-fire-sks-damage-300x159.jpg",
+      "description": "Description Daily Guide",
+      "link": "https://ia601605.us.archive.org/32/items/html-2-m-60/Konten%20Mod%20FFF%20Daily%20Diamond%20Guide/html1%20sks.html"
    },
 {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Daily Diamond FFF",
+      "title": "Guide SKS",
+      "image": "https://raazkumar.com/wp-content/uploads/2020/04/Free-fire-sks-damage-300x159.jpg",
+      "description": "Description Daily Guide",
+      "link": "https://ia601605.us.archive.org/32/items/html-2-m-60/Konten%20Mod%20FFF%20Daily%20Diamond%20Guide/html1%20sks.html"
     },{
    
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Daily Diamond FFF",
+      "title": "Guide M60",
+      "image": "https://raazkumar.com/wp-content/uploads/2020/04/Ff-m60-damage-rate-of-fire-300x154.jpg",
+      "description": "Description Daily Guide",
+      "link": "https://ia601605.us.archive.org/32/items/html-2-m-60/Konten%20Mod%20FFF%20Daily%20Diamond%20Guide/html2%20m60.html"
     },
 {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Daily Diamond FFF",
+      "title": "Guide XM8",
+      "image": "https://raazkumar.com/wp-content/uploads/2020/04/Free-fire-xm8-gun-damage-range-300x164.jpg",
+      "description": "Description Daily Guide",
+      "link": "https://ia601605.us.archive.org/32/items/html-2-m-60/Konten%20Mod%20FFF%20Daily%20Diamond%20Guide/html3%20xm8.html"
     },{
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Daily Diamond FFF",
+      "title": "Guide P90",
+      "image": "https://raazkumar.com/wp-content/uploads/2020/04/P90-free-fire-300x163.jpg",
+      "description": "Description Daily Guide",
+      "link": "https://ia601605.us.archive.org/32/items/html-2-m-60/Konten%20Mod%20FFF%20Daily%20Diamond%20Guide/html4%20p90.html"
       },
 {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Daily Diamond FFF",
+      "title": "Guide MA41",
+      "image": "https://raazkumar.com/wp-content/uploads/2020/04/Free-fire-m4a1-gun-300x166.jpg",
+      "description": "Description Daily Guide",
+      "link": "https://ia601605.us.archive.org/32/items/html-2-m-60/Konten%20Mod%20FFF%20Daily%20Diamond%20Guide/html5%20m4a1.html"
     },{
    
       "id": 6,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Daily Diamond FFF",
+      "title": "Guide UMP",
+      "image": "https://raazkumar.com/wp-content/uploads/2020/04/Free-fire-ump-gun-damage-300x165.jpg",
+      "description": "Description Daily Guide",
+      "link": "https://ia601605.us.archive.org/32/items/html-2-m-60/Konten%20Mod%20FFF%20Daily%20Diamond%20Guide/html6%20ump.html"
     
     }
   ]

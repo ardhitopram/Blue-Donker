@@ -1,11 +1,11 @@
 {
   "Ads": [
     {
-      "select_main_ads": "FACEBOOK",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "1264676564431636_1264685854430707",
-      "main_ads_intertitial":"1264676564431636_1264685994430693",
-      "main_ads_natives":"1264676564431636_1264686141097345",
+      "main_ads_banner": "ca-app-pub-9495374821425402/9978228453",
+      "main_ads_intertitial":"ca-app-pub-9495374821425402/8254083241",
+      "main_ads_natives":"ca-app-pub-9495374821425402/5847411751",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
@@ -13,14 +13,14 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "Cryptocurrency",
+      "high_paying_keyword_2": "Digital Marketing",
+      "high_paying_keyword_3": "Make Money Online",
+      "high_paying_keyword_4": "Insurance",
+      "high_paying_keyword_5": "Health and Fitness",
       "status_app": "0",
       "link_redirect": "https://"
     }
